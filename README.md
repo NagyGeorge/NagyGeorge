@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NagyGeorge
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in learning basic computer science and web development
+- 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me george.nagy6536@outlook.com
 
