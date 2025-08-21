@@ -1,7 +1,6 @@
 # Hey there
 
-I'm George – a hobby coder, railroad worker, and part-time Arma 3 milsim nerd.  
-I tinker with **Windows & Arch Linux**, and love building little tools to make gaming and server management easier.  
+I'm George – a hobby coder and railroad worker 
 
 ---
 
