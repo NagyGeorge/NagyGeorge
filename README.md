@@ -7,7 +7,7 @@ I'm George – a hobby coder and railroad worker
 ### 🔗 Cool Links
 - **My Arma 3 Unit:** [3rd Infantry Division Realism Unit](https://3rdinf.us)  
 -  **Python Hobby Projects:** (check my pinned repos!)  
-- **Reach me:** via GitHub or Discord (friends & unit members know where to find me)
+- **Reach me:** via GitHub or Discord
 
 ---
 
